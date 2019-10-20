@@ -1,7 +1,6 @@
 ---
-title: "Some cool animals"
-author: "Add your name here"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+title: "Some cool animal facts"
+author: "Your name here"
 output: html_document
 ---
 
