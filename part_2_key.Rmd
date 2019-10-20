@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+#### Lab prompt: https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing
+
 ### Part 2: Git version-controlled R Project from scratch
 
 - For this part, you should have created a new repo in GitHub

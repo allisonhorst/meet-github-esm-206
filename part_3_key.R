@@ -3,6 +3,8 @@
 # ESM 206 Lab 4
 # --------------
 
+# Lab prompt: https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing
+
 # Note: Students will have created a separate
 # git-enabled R project for Part 3
 # In that project, subfolders 'data' and 'final_graphs' created

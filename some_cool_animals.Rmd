@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The organization of this document probably seems strange. That's because it's part of an entire multi-part lab for ESM 206, which follows [this] document. Hence the weird unrelated pieces all put together in this project (students will create Parts 2 & 3 as separate projects).
 
+[Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
+
 ### Cool animal fun facts {.tabset .tabset-fade}
 
 #### Great white sharks
