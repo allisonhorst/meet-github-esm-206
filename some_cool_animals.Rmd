@@ -16,9 +16,9 @@ The organization of this document probably seems strange. That's because it's pa
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
-#### Great white sharks
+#### SHARKS!!!
 
-![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images ](img/great_white.jpg)
+![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
 
 ##### Some great white shark facts (from [NatGeo Kids](https://www.natgeokids.com/uk/discover/animals/sea-life/great-white-sharks/)):
 
@@ -45,6 +45,10 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ringtail cats
+
+![Photo: Courtesy of VA Zoo](img/ringtail_cat.jpg)
 
 ###
 
