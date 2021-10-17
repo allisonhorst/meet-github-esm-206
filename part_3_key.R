@@ -50,7 +50,7 @@ ggplot(data = db_sub) +
              lty = 2) +
   theme_minimal()
 
-ggsave(here("final_graphs","disease_graph.png"), width = 5, height = 3)
+# ggsave(here("final_graphs","disease_graph.png"), width = 5, height = 3)
 # End Part 3
 
 
