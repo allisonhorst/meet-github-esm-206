@@ -53,6 +53,9 @@ Here's where I want to have info on ringtails.
 ![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
 We'll also learn about `knitr::include_graphics()`
 
+Testing a change! 
+
+
 ###
 
 ----------
