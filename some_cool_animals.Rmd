@@ -46,6 +46,13 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
 
+#### Ring-tailed cats
+
+Here's where I want to have info on ringtails.
+
+![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+We'll also learn about `knitr::include_graphics()`
+
 ###
 
 ----------
