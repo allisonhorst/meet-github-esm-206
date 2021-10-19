@@ -16,6 +16,10 @@ The organization of this document probably seems strange. That's because it's pa
 
 ### Cool animal fun facts {.tabset .tabset-fade}
 
+#### Ringtail cat
+
+![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+
 #### SHARKS!!!
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
